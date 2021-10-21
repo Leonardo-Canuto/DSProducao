@@ -63,7 +63,7 @@ O método utilizado para o projeto foi o CRISP-DM, aplicar conforme as etapas ab
 
 **FALSO**: As lojas vendem menos com o passar dos anos.
 
-![]()
+![](https://github.com/Leonardo-Canuto/DSProducao2/blob/master/img/imagem2.png)
 
 
  **H11**: As lojas devem vender mais a partir do dia 10 de cada mês.
