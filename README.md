@@ -112,7 +112,7 @@ Considerando o primeiro ciclo de CRISP-DS, o modelo final apresentou um desempen
 - Database: Kaggle
 
 # Autor
-Leonardo Canuto Chaves
+  Leonardo Canuto Chaves
 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/perfilleonardocanuto/)
