@@ -82,11 +82,11 @@ O método utilizado para o projeto foi o CRISP-DM, aplicar conforme as etapas ab
 
 # Desempenho de modelos de aprendizado de máquina
 
-![]()
+![](https://github.com/Leonardo-Canuto/DSProducao2/blob/master/img/modelos.png)
 
 # Desempenho de aprendizado da máquina após o ajuste fino de hiperparâmetro
 
-![]()
+![](https://github.com/Leonardo-Canuto/DSProducao2/blob/master/img/xgboost.png)
 
 Embora o Random Forest Regressor Model tenha apresentado melhor desempenho, este modelo geralmente requer uma grande quantidade de espaço no servidor na etapa de implantação, gerando um aumento significativo de custo para a empresa. Para tanto, optou-se pelo modelo XGBoost Regressor, que após o ajuste fino do hiperparâmetro apresentou desempenho semelhante e requer menos espaço no servidor, gerando um menor custo para a empresa.
 
@@ -96,7 +96,7 @@ Além da previsão geral de vendas, também foi calculada a previsão de vendas 
 
 **Modelo com regressão XGBoost**
 
-![]()
+![](https://github.com/Leonardo-Canuto/DSProducao2/blob/master/img/cenarios.png)
 
 
 # Conclusão
