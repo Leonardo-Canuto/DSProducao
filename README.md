@@ -70,7 +70,7 @@ O método utilizado para o projeto foi o CRISP-DM, aplicar conforme as etapas ab
  
 **VERDADEIRO**: As lojas vendem mais a partir do dia 10 de cada mês.
 
-![]()
+![](https://github.com/Leonardo-Canuto/DSProducao2/blob/master/img/download3.png)
 
 # Modelos de aprendizado de máquina testados
 
