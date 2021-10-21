@@ -1,6 +1,6 @@
 # BP-Rossmann-Sales-Model
 
-![](/home/leonardo/DSProducao/negocio-digital-800x445.jpg)
+![](https://github.com/Leonardo-Canuto/DSProducao2/blob/master/img/negocio-digital-800x445.jpg)
 
 
 Este é um projeto de machine learning de previsão de vendas para Drogarias Rossmann.
