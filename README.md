@@ -57,19 +57,20 @@ O método utilizado para o projeto foi o CRISP-DM, aplicar conforme as etapas ab
 
 **FALSO**: Lojas com maior variedade vendem MENOS.
 
-imagem
+![](https://github.com/Leonardo-Canuto/DSProducao2/blob/master/img/imagem1.png)
 
 **H9**: As lojas devem vender mais com o passar dos anos.
 
 **FALSO**: As lojas vendem menos com o passar dos anos.
 
-imagem
+![]()
+
 
  **H11**: As lojas devem vender mais a partir do dia 10 de cada mês.
  
 **VERDADEIRO**: As lojas vendem mais a partir do dia 10 de cada mês.
 
-imagem
+![]()
 
 # Modelos de aprendizado de máquina testados
 
@@ -81,11 +82,11 @@ imagem
 
 # Desempenho de modelos de aprendizado de máquina
 
-imagem
+![]()
 
 # Desempenho de aprendizado da máquina após o ajuste fino de hiperparâmetro
 
-imagem
+![]()
 
 Embora o Random Forest Regressor Model tenha apresentado melhor desempenho, este modelo geralmente requer uma grande quantidade de espaço no servidor na etapa de implantação, gerando um aumento significativo de custo para a empresa. Para tanto, optou-se pelo modelo XGBoost Regressor, que após o ajuste fino do hiperparâmetro apresentou desempenho semelhante e requer menos espaço no servidor, gerando um menor custo para a empresa.
 
@@ -95,7 +96,7 @@ Além da previsão geral de vendas, também foi calculada a previsão de vendas 
 
 **Modelo com regressão XGBoost**
 
-imagem
+![]()
 
 
 # Conclusão
